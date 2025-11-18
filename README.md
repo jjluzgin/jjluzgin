@@ -6,8 +6,8 @@ I build things for the web because I can’t stand when stuff looks bad or runs 
 Always learning, always tweaking code until it stops yelling at me.
 
 ### ⚙️ what I use
-**frontend:** React, Next.js, TS  
-**backend:** Node, Express, Python  
+**frontend:** Vue, Nuxt.js, TS  
+**backend:** Deno, Hono, TS or C#  
 **db:** Postgres, MongoDB  
 **tools:** Docker, Git, Linux, VS Code  
 
